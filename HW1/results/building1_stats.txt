@@ -1,0 +1,7 @@
+Error statistics for building1 images:
+mean: 3.445056305469331
+median: 3.445056305469331
+perc95: 5.145693242877711
+pct_lt3: 50.0
+pct_lt5: 50.0
+pct_lt10: 100.0
